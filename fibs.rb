@@ -12,5 +12,3 @@ def fibs(input)
 	end
 	current_number
 end
-
-puts fibs(49)
